@@ -1,6 +1,6 @@
 baseURL = 'https://blog.0x29a.me/'
 
-languageCode = 'en'
+locale = 'en'
 
 title = '0x29a.me'
 
